@@ -1,0 +1,50 @@
+
+
+/* Used colors are:
+
+#39A2DB
+#053742
+#E8F0F6
+
+Table head, footer color:
+
+#A2DBFA
+#77ACF1
+
+Buttons:
+
+#a10909
+#71c7ec
+ */
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+header{
+    margin: 0%;
+    background-color: #39A2DB;
+    text-align: center;
+    padding: 4%;
+    
+}
+h1{ 
+    font-weight: 700;
+    font-size: 30px;
+    
+    color: #E8F0F6;
+}
+
+#fieldset{
+    border: 1px dashed black;
+}
+
+footer{
+    padding: 4%;
+    background-color: #053742 ;
+    color: #E8F0F6;
+}
+p{
+    text-align: center;
+}
